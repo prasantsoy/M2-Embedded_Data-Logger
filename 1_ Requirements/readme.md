@@ -7,8 +7,8 @@
 
 
 ## Research
-    It came as an idea to help others with the information to help someone who needs these data like a farm, and with the help of coding we did our recording work to 
-    save your time.
+    It came as an idea to help others with the information to help someone who needs these data like a farm.
+    With the help of coding we did our recording work to save your time.
     
 ## Cost
     It cost little to make this applicaton along with the cost of microsontroller, sensors and displays.
