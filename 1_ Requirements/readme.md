@@ -1,31 +1,27 @@
 # Requirements
 ## Introduction
     The project data logger is a microcontroller based system which takes different parameters and displays the valuable data.
-    It will be able to find the dew-point and temperature with the help of temperature and humidity sensor sensor is in contact. 
-    It also uses a wind sensor for measuring wind speed.
+    It will be able to find current consumed by the device sensor sensor is in contact. 
+    It changes with the change of current cinsumed.
     
 
 
 ## Research
-    It came as an idea to help others with the information to help someone who needs these data like a farm.
+    It came as an idea to help others with the information to help someone who needs these data.
     With the help of coding we did our recording work to save your time.
     
 ## Cost
     It cost little to make this applicaton along with the cost of microsontroller, sensors and displays.
     
 ## Defining Our System
-    The data shown will be:
-    1.Temperature.
-    2.Dew-point.
-    3.wind speed.
+    The data shown will be current consumed.
     
     Data needed by microcontroller:
-    1.Temperature
-    2.Humidity
-    3.Wind speed
+    1.Current analog data
+    2.Resolution of ADC.
     
-    Temperature and humidity wil be provided by a single sensor module. 
-    Windspeed will be given by the wind speed sensor.
+    TCurrent is measured with the help of current sensor module. 
+    The ADC converts the analog to digital data.
     A display will project the output.
     
 ## SWOT ANALYSIS
@@ -38,17 +34,17 @@
     1. The data provided is of the current time.
     
     Oppurtinities
-    1. Agricultural company
-    2. Farms
+    1. Monitoring system.
+    2. Small gadgets.
     
     Threats
-    1. The sensors are only measures the parameters within its vicinity.
-    2. It in not accurate for a large area.
+    1. The sensors are only measures the parameters connected to it.
+    2. It only takes one input at a time.
 
 ## 4W's and 1H
-    Who: Anyone who has to keep a monitoring system of atmosphere.
-    What: User will get the atmospheric parameters.
-    When: When the user is having to monitor the atmospheris parameters countinously.
+    Who: Anyone who has to keep a monitoring system for current.
+    What: User will get the current consumed.
+    When: When the user is having to monitor the current value countinously.
     Where: It can be deployed anywhere where monitoring is required.
     How: User can simply plug the system module to the power supply and it will work.
 
