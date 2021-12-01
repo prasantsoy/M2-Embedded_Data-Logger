@@ -1,16 +1,16 @@
 ## Introduction
     The project data logger is a microcontroller based system which takes different parameters and displays the valuable data.
-    It will be able to find the dew-point and temperature with the help of temperature and humidity sensor sensor is in contact. 
-    It also uses a wind sensor for measuring wind speed.
+    It will be able to find current consumed by the device sensor sensor is in contact. 
+    It changes with the change of current cinsumed.
     
 ## Research
-    It came as an idea to help others with the information to help someone who needs these data like a farm.
+    It came as an idea to help others with the information to help someone who needs these data.
     With the help of coding we did our recording work to save your time.
     
-    ## 4W's and 1H
-    Who: Anyone who has to keep a monitoring system of atmosphere.
-    What: User will get the atmospheric parameters.
-    When: When the user is having to monitor the atmospheris parameters countinously.
+## 4W's and 1H
+    Who: Anyone who has to keep a monitoring system for current.
+    What: User will get the current consumed.
+    When: When the user is having to monitor the current value countinously.
     Where: It can be deployed anywhere where monitoring is required.
     How: User can simply plug the system module to the power supply and it will work.
 
@@ -31,4 +31,5 @@ Low Level Requirements
 |LR01|User must keep the module where it need to read data|HR01|IMPLEMENTED|
 |LR02|User must keep the microcontroller away from water .|HR02|IMPLEMENTED|
 
-
+## Structural Diagram
+![image](https://user-images.githubusercontent.com/94223490/144298724-f1b5fb9d-aff5-40f9-acaa-d65b2c68368e.png)
