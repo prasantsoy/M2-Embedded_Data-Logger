@@ -4,10 +4,8 @@ It save the data acquired from various sensors and displays usefull informations
 ## Linux OS Build
 [![Linux Build](https://github.com/prasantsoy/M2-Embedded_Data-Logger/actions/workflows/linux_c-cpp.yml/badge.svg)](https://github.com/prasantsoy/M2-Embedded_Data-Logger/blob/main/.github/workflows/linux_c-cpp.yml)
 
-
 ## Windows OS Build
 [![Windows Build](https://github.com/prasantsoy/M2-Embedded_Data-Logger/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prasantsoy/M2-Embedded_Data-Logger/blob/main/.github/workflows/c-cpp.yml)
-
 
 ## CPP Check
 [![CPP Check](https://github.com/prasantsoy/M2-Embedded_Data-Logger/actions/workflows/check-cpp.yml/badge.svg)](https://github.com/prasantsoy/M2-Embedded_Data-Logger/blob/main/.github/workflows/check-cpp.yml)
@@ -21,8 +19,7 @@ It save the data acquired from various sensors and displays usefull informations
 ## Simulation setup
 ![image](https://user-images.githubusercontent.com/94223490/144360872-83b7b4ba-56d0-4f32-921e-b86801e892e1.png)
 
-
-## Folder Structure :
+## Folder Structure 
 
 Folder_Name      |  Description
 -----------------|--------------
