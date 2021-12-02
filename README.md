@@ -1,6 +1,23 @@
 ## M2-Embedded_Data-Logger
 It save the data acquired from various sensors and displays usefull informations.
 
+## Linux OS Build
+[![Linux Build](https://github.com/legends07/M2-Embedded_EnergyMeter/actions/workflows/Win_c-cpp.yml/badge.svg)](https://github.com/legends07/M2-Embedded_/blob/main/.github/workflows/Win_c-cpp.yml)
+
+
+## Windows OS Build
+[![Windows Build](https://github.com/legends07/M2-Embedded_EnergyMeter/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/legends07/M2-Embedded_/blob/main/.github/workflows/c-cpp.yml)
+
+
+## CPP Check
+[![CPP Check](https://github.com/legends07/M2-Embedded_EnergyMeter/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/legends07/M2-Embedded_/blob/main/.github/workflows/cpp_check.yml)
+
+## Quality Badge(Codacy)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e1205f42607a4dbbb2823dea36bbe860)](https://www.codacy.com/gh/legends07/M1_Application_Digital-Number-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=legends07/M1_Application_Digital-Number-System&amp;utm_campaign=Badge_Grade)
+
+# Code Quality Score
+![Code Quality Score](https://api.codiga.io/project/29897/score/svg)
+
 ## Simulation setup
 ![image](https://user-images.githubusercontent.com/94223490/144360872-83b7b4ba-56d0-4f32-921e-b86801e892e1.png)
 
