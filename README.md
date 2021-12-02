@@ -14,7 +14,7 @@ It save the data acquired from various sensors and displays usefull informations
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e1205f42607a4dbbb2823dea36bbe860)](https://www.codacy.com/gh/legends07/M1_Application_Digital-Number-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=legends07/M1_Application_Digital-Number-System&amp;utm_campaign=Badge_Grade)
 
 # Code Quality Score
-![Code Quality Score](https://api.codiga.io/project/29897/score/svg)
+![Code Quality Score](https://api.codiga.io/project/30257/score/svg)
 
 ## Simulation setup
 ![image](https://user-images.githubusercontent.com/94223490/144360872-83b7b4ba-56d0-4f32-921e-b86801e892e1.png)
