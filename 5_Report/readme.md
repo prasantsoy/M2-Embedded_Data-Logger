@@ -32,4 +32,4 @@ Low Level Requirements
 |LR02|User must keep the microcontroller away from water .|HR02|IMPLEMENTED|
 
 ## Structural Diagram
-![image](https://user-images.githubusercontent.com/94223490/144298724-f1b5fb9d-aff5-40f9-acaa-d65b2c68368e.png)
+![image](https://user-images.githubusercontent.com/94223490/144378372-034b6f81-3534-4e9f-b06a-ce31808ce5db.png)
