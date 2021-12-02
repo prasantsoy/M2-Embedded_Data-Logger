@@ -1,3 +1,13 @@
+/**
+ * @file proj_main.c
+ * @author Prasant Soy (prasantyos@gmail.com)
+ * @brief 
+ * @version 0.1
+ * @date 2021-12-02
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include <avr/io.h>
 #define F_CPU 1000000
 #include <util/delay.h>
