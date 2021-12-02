@@ -2,6 +2,7 @@
 It save the data acquired from various sensors and displays usefull informations.
 
 ## Linux OS Build
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f912d71c55614222a13a09f334ee6aa3)](https://app.codacy.com/gh/prasantsoy/M2-Embedded_Data-Logger?utm_source=github.com&utm_medium=referral&utm_content=prasantsoy/M2-Embedded_Data-Logger&utm_campaign=Badge_Grade_Settings)
 [![Linux Build](https://github.com/prasantsoy/M2-Embedded_Data-Logger/actions/workflows/linux_c-cpp.yml/badge.svg)](https://github.com/prasantsoy/M2-Embedded_Data-Logger/blob/main/.github/workflows/linux_c-cpp.yml)
 
 
