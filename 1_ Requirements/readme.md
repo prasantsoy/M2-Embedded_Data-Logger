@@ -4,8 +4,6 @@
     It will be able to find current consumed by the device sensor sensor is in contact. 
     It changes with the change of current cinsumed.
     
-
-
 ## Research
     It came as an idea to help others with the information to help someone who needs these data.
     With the help of coding we did our recording work to save your time.
@@ -64,4 +62,3 @@ Low Level Requirements
 | :-: | :-: | :-: | :-: |
 |LR01|User must keep the module where it need to read data|HR01|IMPLEMENTED|
 |LR02|User must keep the microcontroller away from water .|HR02|IMPLEMENTED|
-
