@@ -2,7 +2,7 @@
 It save the data acquired from various sensors and displays usefull informations.
 
 ## Linux OS Build
-[![Linux Build](https://github.com/legends07/M2-Embedded_EnergyMeter/actions/workflows/Win_c-cpp.yml/badge.svg)](https://github.com/legends07/M2-Embedded_/blob/main/.github/workflows/Win_c-cpp.yml)
+[![Linux Build](https://github.com/prasantsoy/M2-Embedded_Data-Logger/actions/workflows/linux_c-cpp.yml/badge.svg)](https://github.com/prasantsoy/M2-Embedded_Data-Logger/blob/main/.github/workflows/linux_c-cpp.yml)
 
 
 ## Windows OS Build
