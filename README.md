@@ -1,9 +1,11 @@
-# M2-Embedded_Data-Logger
+## M2-Embedded_Data-Logger
 It save the data acquired from various sensors and displays usefull informations.
 
+## Simulation setup
+![image](https://user-images.githubusercontent.com/94223490/144360872-83b7b4ba-56d0-4f32-921e-b86801e892e1.png)
 
 
-# Folder Structure :
+## Folder Structure :
 
 Folder_Name      |  Description
 -----------------|--------------
